@@ -1,3 +1,4 @@
 Diff and comparison testing
 Hello baby
 Trying branching now!
+Something new!
