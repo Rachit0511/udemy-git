@@ -1,6 +1,8 @@
+
 Diff and comparison testing
 Hello baby
 Trying branching now!
 Something new!
 Rebase bro..
 Final try for rebase
+In master changes
