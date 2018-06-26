@@ -4,3 +4,4 @@ Change content 2
 Rebase attempt from abc branch
 Checking stash
 Hey hey hey from abc
+In master changed
